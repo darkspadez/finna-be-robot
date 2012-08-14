@@ -1,7 +1,19 @@
 History
 =======
 
-0.1.1
+0.2.2 - August 13, 2012
+-----------------------
+* More Clean-up of code
+* Fix some code
+* Added some new things
+    * Rename - WIP
+    * Rsync - WIP
+    * BuildType
+    * Check if build is ok
+    * Other stuff i probably forgot
+
+0.1.1 - August 12, 2012
+-----------------------
 * Clean-up code
 * Fix some code
 * Added Files
@@ -10,6 +22,6 @@ History
     * TODO
     * HISTORY
 
-0.1
----
+0.1  - August 12, 2012
+----------------------
 * Initial Commit
